@@ -83,22 +83,4 @@ A partir desse conjunto de dados, são aplicadas técnicas de análise explorat�
 │   └── figures        <- Imagens usadas nas análises e relatórios
 │
 ├── requirements.txt   <- Lista de dependências do projeto
-│
-│
-└── hotel_reservations   <- Código principal do projeto
-    │
-    ├── __init__.py             <- Arquivo para importação modular
-    │
-    ├── config.py               <- Variáveis de configuração
-    │
-    ├── dataset.py              <- Código para download ou geração dos dados
-    │
-    ├── features.py             <- Código para criação de features
-    │
-    ├── modeling
-    │   ├── __init__.py
-    │   ├── predict.py          <- Código para rodar a predição dos modelos
-    │   └── train.py            <- Código para treinar os modelos
-    │
-    └── plots.py                <- Código para gerar gráficos para visualizar os dados
 ```

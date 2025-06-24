@@ -47,7 +47,14 @@ A partir desse conjunto de dados, são aplicadas técnicas de análise explorat�
 
 ## 📊 Resultados Obtidos
 
-🚧 EM OBRAS 🚧
+Os resultados foram bastante satisfatórios com a aplicação da técnica de Stacking, que combinou os modelos RandomForestClassifier, ExtraTreesClassifier e DecisionTreeClassifier. Essa abordagem proporcionou uma melhora significativa no desempenho, demonstrando que técnicas baseadas em ensemble podem ser extremamente eficazes em problemas de classificação, atingindo 98% de AUC.
+
+As visualizações, por meio da matriz de confusão e da curva ROC, reforçaram a alta performance dos modelos desenvolvidos, evidenciando sua capacidade de generalização e sua aplicabilidade prática.
+
+Diante disso, conclui-se que a utilização de modelos de machine learning, aliada a uma boa análise e tratamento dos dados, é uma estratégia eficiente para auxiliar hotéis na previsão de cancelamentos. Isso permite que adotem medidas preventivas e estratégias comerciais mais assertivas, otimizando sua gestão e tomada de decisões.
+
+Relatório Completo: [Relatório](./reports/Relatório%20-%20Felipe%20Rodighero%20Zarichta.pdf)
+Projeto Completo: [Notebook1](./notebooks/1-data-analysis.ipynb) e [Notebook2](./notebooks/2-model-training.ipynb)
 
 ## 🚀 Como Executar Localmente
 

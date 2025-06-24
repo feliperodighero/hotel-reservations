@@ -54,7 +54,8 @@ As visualizações, por meio da matriz de confusão e da curva ROC, reforçaram 
 Diante disso, conclui-se que a utilização de modelos de machine learning, aliada a uma boa análise e tratamento dos dados, é uma estratégia eficiente para auxiliar hotéis na previsão de cancelamentos. Isso permite que adotem medidas preventivas e estratégias comerciais mais assertivas, otimizando sua gestão e tomada de decisões.
 
 Relatório Completo: [Relatório](./reports/Relatório%20-%20Felipe%20Rodighero%20Zarichta.pdf)
-Projeto Completo: [Notebook1](./notebooks/1-data-analysis.ipynb) e [Notebook2](./notebooks/2-model-training.ipynb)
+
+Projeto Completo: [Data Analysis](./notebooks/1-data-analysis.ipynb) e [Model Training](./notebooks/2-model-training.ipynb)
 
 ## 🚀 Como Executar Localmente
 

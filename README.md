@@ -57,6 +57,9 @@ Relatório Completo: [Relatório](./reports/Relatório%20-%20Felipe%20Rodighero%
 
 Projeto Completo: [Data Analysis](./notebooks/1-data-analysis.ipynb) e [Model Training](./notebooks/2-model-training.ipynb)
 
+![download (7)](https://github.com/user-attachments/assets/313fa38c-7b08-41c5-aff2-31c464f5f683)
+![download (6)](https://github.com/user-attachments/assets/0a8984eb-2594-473c-9fb5-9232af883f4a)
+
 ## 🚀 Como Executar Localmente
 
 ### Pré-requisitos
